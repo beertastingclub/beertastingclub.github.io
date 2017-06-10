@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reports on Beer Tasting Club</title>
+    <link>https://beertastingclub.github.io/categories/reports/</link>
+    <description>Recent content in Reports on Beer Tasting Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 10 Jun 2017 16:18:50 +0200</lastBuildDate>
+    
+	<atom:link href="https://beertastingclub.github.io/categories/reports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Session 1</title>
+      <link>https://beertastingclub.github.io/2017/06/session-1/</link>
+      <pubDate>Sat, 10 Jun 2017 16:18:50 +0200</pubDate>
+      
+      <guid>https://beertastingclub.github.io/2017/06/session-1/</guid>
+      <description> Session 1 </description>
+    </item>
+    
+    <item>
+      <title>Session 0</title>
+      <link>https://beertastingclub.github.io/2017/06/session-0/</link>
+      <pubDate>Sat, 10 Jun 2017 15:18:50 +0200</pubDate>
+      
+      <guid>https://beertastingclub.github.io/2017/06/session-0/</guid>
+      <description> Right </description>
+    </item>
+    
+  </channel>
+</rss>

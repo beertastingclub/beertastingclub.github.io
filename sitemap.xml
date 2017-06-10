@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://beertastingclub.github.io/2017/06/session-1/</loc>
+    <lastmod>2017-06-10T16:18:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beertastingclub.github.io/2017/06/session-0/</loc>
+    <lastmod>2017-06-10T15:18:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beertastingclub.github.io/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beertastingclub.github.io/</loc>
+    <lastmod>2017-06-10T16:18:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beertastingclub.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beertastingclub.github.io/post/</loc>
+    <lastmod>2017-06-10T16:18:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beertastingclub.github.io/categories/reports/</loc>
+    <lastmod>2017-06-10T16:18:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beertastingclub.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
