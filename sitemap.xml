@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://beertastingclub.github.io/2017/06/session-1/</loc>
-    <lastmod>2017-06-10T16:18:50+02:00</lastmod>
+    <loc>https://beertastingclub.github.io/2017/06/session-2---f%C3%A9vrier-2017/</loc>
+    <lastmod>2017-06-10T16:34:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://beertastingclub.github.io/2017/06/session-0/</loc>
-    <lastmod>2017-06-10T15:18:50+02:00</lastmod>
+    <loc>https://beertastingclub.github.io/2017/06/session-1---janvier-2017/</loc>
+    <lastmod>2017-06-10T16:18:50+02:00</lastmod>
   </url>
   
   <url>
@@ -18,8 +18,26 @@
   </url>
   
   <url>
+    <loc>https://beertastingclub.github.io/tags/beer/</loc>
+    <lastmod>2017-06-10T16:34:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://beertastingclub.github.io/</loc>
-    <lastmod>2017-06-10T16:18:50+02:00</lastmod>
+    <lastmod>2017-06-10T16:34:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beertastingclub.github.io/tags/blind-tasting/</loc>
+    <lastmod>2017-06-10T16:34:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beertastingclub.github.io/tags/bottle-share/</loc>
+    <lastmod>2017-06-10T16:34:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,18 +48,19 @@
   
   <url>
     <loc>https://beertastingclub.github.io/post/</loc>
-    <lastmod>2017-06-10T16:18:50+02:00</lastmod>
+    <lastmod>2017-06-10T16:34:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://beertastingclub.github.io/categories/reports/</loc>
-    <lastmod>2017-06-10T16:18:50+02:00</lastmod>
+    <lastmod>2017-06-10T16:34:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://beertastingclub.github.io/tags/</loc>
+    <lastmod>2017-06-10T16:34:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   

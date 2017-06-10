@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Beer Tasting Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
+    <lastBuildDate>Sat, 10 Jun 2017 16:34:50 +0200</lastBuildDate>
     
 	<atom:link href="https://beertastingclub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Beer</title>
+      <link>https://beertastingclub.github.io/tags/beer/</link>
+      <pubDate>Sat, 10 Jun 2017 16:34:50 +0200</pubDate>
+      
+      <guid>https://beertastingclub.github.io/tags/beer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind Tasting</title>
+      <link>https://beertastingclub.github.io/tags/blind-tasting/</link>
+      <pubDate>Sat, 10 Jun 2017 16:34:50 +0200</pubDate>
+      
+      <guid>https://beertastingclub.github.io/tags/blind-tasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bottle Share</title>
+      <link>https://beertastingclub.github.io/tags/bottle-share/</link>
+      <pubDate>Sat, 10 Jun 2017 16:34:50 +0200</pubDate>
+      
+      <guid>https://beertastingclub.github.io/tags/bottle-share/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
