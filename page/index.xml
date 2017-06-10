@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Beer Tasting Club</title>
+    <link>https://beertastingclub.github.io/page/</link>
+    <description>Recent content in Pages on Beer Tasting Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 10 Jun 2017 17:16:13 +0200</lastBuildDate>
+    
+	<atom:link href="https://beertastingclub.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>À propos</title>
+      <link>https://beertastingclub.github.io/page/about/</link>
+      <pubDate>Sat, 10 Jun 2017 17:16:13 +0200</pubDate>
+      
+      <guid>https://beertastingclub.github.io/page/about/</guid>
+      <description>Le Beer Tasting Club est un club de dégustation de bière basé à Paris. Il a été créé par 2 membre du groupe Facebook French Beer Geek en partenariat avec La Cave à Bulles et Brew Unique où ont lieu les sessions.
+Deux fois par mois est organisé une degustation à l&amp;rsquo;aveugle. Ces événement sont gratuits : les participants doivent cependant apporter une grande bouteille intéressante chacun qu&amp;rsquo;il fera goûter aux autres sans dévoiler l&amp;rsquo;étiquette.</description>
+    </item>
+    
+  </channel>
+</rss>
